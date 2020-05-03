@@ -1,4 +1,4 @@
 # Indicateur-de-position-avec-servomoteur
 Arduino Project : Indicateur de position avec servomoteur
 
-#Youtube tutorial : https://youtu.be/yPZZ0Gy4VhA
+#Youtube tutorial : https://youtu.be/2iGFaJO2Hfg
